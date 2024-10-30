@@ -16,11 +16,22 @@ Here are some ideas to get you started:
 -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Hi 👋, This is Haoran Meng</h1>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=menghaoranss&label=Profile%20views&color=0e75b6&style=flat" alt="menghaoranss" /> 
   <img src="https://img.shields.io/github/followers/menghaoranss?label=follow&style=social" alt="menghaoranss" /> 
 </p>
+
+- 7 years of experience in Internet product development, nearly 4 years in database-related middleware product development
+- Member of the Project Management Committee (PMC) of the Apache ShardingSphere
+- Focusing on database ecology and application technology
+- Shared database-related technologies at public technical conferences many times
+- Good communication skills
+- Familiar with the development and use of MySQL/PostgreSQL and some domestic databases
+- Has a deep understanding of the basic theory and internal implementation mechanism of databases
+- Familiar with high-concurrency, scalable, and high-availability system architecture
+- In-depth research on distributed service architecture technologies such as zookeeper, redis, etcd
+- Understanding the basic framework principles such as JAVA multi-threading
+- Familiar with JVM principles and performance tuning, and good programming skills
 
 <h4 align="left">Badges</h1>
 <p align="left">
