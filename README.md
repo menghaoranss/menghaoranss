@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 #### Work Experience
 * 2024/06-Now()  : [北京思斐软件技术有限公司(SphereEx)](https://sphere-ex.com/) | Bei Jing | Java ｜ DataBase
 * 2021/05-2022/08: [北京思斐软件技术有限公司(SphereEx)](https://sphere-ex.com/) | Bei Jing | Java ｜ DataBase
-* 2020/01-2021/05: [京东科技(JDT)](https://www.jdt.com.cn/) ｜ 北京 ｜ Java | DataBase
+* 2020/01-2021/05: [京东科技(JDT)](https://www.jdt.com.cn/) ｜ Bei Jing ｜ Java | DataBase
 * 2015/11-2019/12: [金未来金融信息服务有限公司](https://www.jianlc.com/) | Bei Jing | Java | Internet Finance
 * 2012/12-2015/10: [中国曙光(Sugon)](https://www.sugon.com/) | Bei Jing | Java | HPC
 
